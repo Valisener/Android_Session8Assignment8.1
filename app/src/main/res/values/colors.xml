@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--The screen background color is set to black same as the example for the assignment-->
+    <color name="screenBackground">#000000</color>
+    <!--Text color for the list since the assignment showed white text color-->
+    <color name="textWhite">#ffffff</color>
+    <!--The color for the buttons background similair to the assignment picture.-->
+    <color name="buttonBackground">#898989</color>
+    <!--Sets the divider color since i saw a divider in the assignment picture-->
+    <color name="colorDivider">#5e5d5d</color>
+
+</resources>

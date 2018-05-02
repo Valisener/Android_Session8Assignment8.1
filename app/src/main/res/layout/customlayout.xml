@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Sets the listview layout had to make my own to make the text white and set other variables-->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listTextView"
+    android:layout_width="fill_parent"
+    android:layout_height="38dp"
+    android:textSize="@dimen/listViewTextSize"
+    android:textColor="@color/textWhite"
+     />

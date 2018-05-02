@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Sets the divider height-->
+    <dimen name="dividerHeight">2sp</dimen>
+    <!--Sets the text size for the list view -->
+    <dimen name="listViewTextSize">30sp</dimen>
+
+</resources>

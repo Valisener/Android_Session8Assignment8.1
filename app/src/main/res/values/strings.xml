@@ -1,0 +1,8 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">SortingList</string>
+    <!--Text for the button that orders the list to ascending-->
+    <string name="button_Ascending">Ascending</string>
+    <!--Text for the button that orders the list in descending-->
+    <string name="button_Descending">Descending</string>
+</resources>
